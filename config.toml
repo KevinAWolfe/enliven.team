@@ -1,0 +1,4 @@
+baseURL = 'https://enliven.team/'
+languageCode = 'en-us'
+title = 'Enliven Team'
+theme = 'etch'
